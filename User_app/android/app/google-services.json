@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662122120563",
+    "project_id": "marcket-flutter",
+    "storage_bucket": "marcket-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662122120563:android:8fe5a2f6c1b73b2f393106",
+        "android_client_info": {
+          "package_name": "io.initappz.handyman.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662122120563-r8qgsegcd5hrrre85fr60k5bsd8utemn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioawyuS6tGYlNxZ4Xx-fzL9ghq_2PtpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662122120563-r8qgsegcd5hrrre85fr60k5bsd8utemn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
